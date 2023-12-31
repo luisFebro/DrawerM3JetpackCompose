@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.dp
 import com.febro.drawerm3jetpackcompose.ui.theme.DrawerM3JetpackComposeTheme
 import kotlinx.coroutines.launch
 
+// ref: https://www.youtube.com/watch?v=aYSarwALlpI
 data class NavigationItem(
     val title: String,
     val selectedIcon: ImageVector,
